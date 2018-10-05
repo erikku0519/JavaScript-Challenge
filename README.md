@@ -2,4 +2,4 @@
 
 This assignment involves using HTML, CSS, and Javascript to design an interactive website.
 
-![Website_Banner](https://github.com/erikku0519/JavaScript-Challenge/UFO_Website.png)
+![Website_Banner](https://github.com/erikku0519/JavaScript-Challenge/blob/master/UFO_Website.png)
